@@ -1,0 +1,6 @@
+# Anything in an image folder
+img/*
+# except for .gitkeep
+!.gitkeep
+
+
