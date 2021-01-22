@@ -1,0 +1,3 @@
+[submodule "markdownblog"]
+	path = markdownblog
+	url = git@github.com:Sinux1/markdownblog.git
