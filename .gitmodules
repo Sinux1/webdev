@@ -1,3 +1,6 @@
 [submodule "markdownblog"]
 	path = markdownblog
 	url = git@github.com:Sinux1/markdownblog.git
+[submodule "url-shortener"]
+	path = url-shortener
+	url = git@github.com:Sinux1/url-shortener.git
